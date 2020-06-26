@@ -1,5 +1,5 @@
 ---
-title: "Code Poetry"
+title: "`Code` Poetry"
 date: 2018-02-13T13:56:12-05:00
 showDate: true
 draft: false
@@ -16,10 +16,10 @@ if (this === that):
         return
 ```
 
-Or just one long line...
+e e cummings?
 
 ```js
-console.log('Sometimes lines are waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay toooooooooooooooooooo looooooooooooooooooooooooooooooong')
+console.log('eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee')
 ```
 
 An embedded gist using shortcode:

@@ -1,4 +1,4 @@
-baseurl                  = "https://example.com/"           # Your domain name. Must end with "/"
+baseurl                  = "https://example.com"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -19,21 +19,22 @@ pygmentsCodefences       = true
     description          = "A new Hugo site."               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Call me Sam"
+    # rss                = ""
 
 [[params.mainMenu]]
-    link = "/posts"
+    link = "posts"
     text = "posts"
 
 [[params.mainMenu]]
-    link = "/gallery"
+    link = "gallery"
     text = "gallery"
 
 [[params.mainMenu]]
-    link = "/portfolio"
+    link = "portfolio"
     text = "portfolio"
 
 [[params.mainMenu]]
-    link = "/about"
+    link = "about"
     text = "who is sam?"
 
 [imaging]
